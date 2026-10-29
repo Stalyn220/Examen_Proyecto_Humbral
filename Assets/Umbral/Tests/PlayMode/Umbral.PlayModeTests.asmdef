@@ -1,0 +1,7 @@
+{
+  "name": "Umbral.PlayModeTests",
+  "references": ["Umbral.Runtime", "Unity.InputSystem"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "defineConstraints": ["UNITY_INCLUDE_TESTS"],
+  "autoReferenced": false
+}

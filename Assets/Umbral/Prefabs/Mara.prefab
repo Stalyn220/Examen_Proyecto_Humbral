@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6680999586413349210
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6110549652895879467}
+  - component: {fileID: 2451495934338552403}
+  - component: {fileID: 8261178698785864375}
+  m_Layer: 0
+  m_Name: Mara
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6110549652895879467
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6680999586413349210}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 179.5, y: 1, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &2451495934338552403
+SpriteRenderer:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6680999586413349210}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 12
+  m_MaskInteraction: 0
+  m_Sprite: {fileID: 21300000, guid: 519fdf4e1a5f3b344abd408d499d1a85, type: 2}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2.6060605, y: 1.7348485}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_SpriteSortPoint: 0
+  m_BlendShapeWeights: []
+--- !u!114 &8261178698785864375
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6680999586413349210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6b2305cc3b82744f9ac187fcc0776f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Umbral.Runtime::Umbral.UmbralCompanion
+  isMara: 1
+  visual: {fileID: 2451495934338552403}
+  frames:
+  - {fileID: 21300000, guid: 519fdf4e1a5f3b344abd408d499d1a85, type: 2}
+  - {fileID: 21300000, guid: 5907ba0c583e0bc4aa47746b02174298, type: 2}
+  - {fileID: 21300000, guid: 71200c45ac4e15347b54aef0c3412990, type: 2}
+  - {fileID: 21300000, guid: e271219366f67e742aa7e51d54a74357, type: 2}
+  - {fileID: 21300000, guid: 421a6db3276a5b445b9fb0d80eb3ab28, type: 2}
+  - {fileID: 21300000, guid: 68378c1319d64304b86d58544c40ff7e, type: 2}
+  - {fileID: 21300000, guid: cc8bcd068e2bb26449c4cee1c317ddf1, type: 2}
+  - {fileID: 21300000, guid: c52143c3612d00e4895502191d699783, type: 2}
+  - {fileID: 21300000, guid: 63442b28f7b353145aa15eba0f5b24ec, type: 2}
+  - {fileID: 21300000, guid: 747fe6007d5c7a54c88efa72624d6f3b, type: 2}
+  - {fileID: 21300000, guid: d8ba3f87dad3baf4f84b5cf37f1e10a6, type: 2}
+  - {fileID: 21300000, guid: a47804b23fe1b2945986df4cb520e92b, type: 2}
+  - {fileID: 21300000, guid: 470cf84777492e64aa889afe5d95d66d, type: 2}
+  - {fileID: 21300000, guid: 8b2f10215d758c44a8a1e22c2bcfa680, type: 2}
+  - {fileID: 21300000, guid: 8e9e94fe0c0faf9418a3b1111c25e3f8, type: 2}
+  - {fileID: 21300000, guid: 6cb90bab78e90864ea39a0c1ab749078, type: 2}
+  - {fileID: 21300000, guid: 7d34f720d8a5dae42bd9c738e21eff7c, type: 2}
+  - {fileID: 21300000, guid: 7ec2a64e2cc2e484eb963b8ecb55ce20, type: 2}
+  - {fileID: 21300000, guid: 163924520216c2949918af1c9ac19950, type: 2}
+  - {fileID: 21300000, guid: 9f9417c8675961d4690074c47b987ae8, type: 2}
+  character: {fileID: 11400000, guid: ff3e1d5df2d06d2449b00f641b781b9f, type: 2}

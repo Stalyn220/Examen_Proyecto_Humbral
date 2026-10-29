@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09fa5544be2d10141a14a2af0c7ea4d6, type: 3}
+  m_Name: Leo
+  m_EditorClassIdentifier: Umbral.Runtime::Umbral.UmbralCharacterDefinition
+  displayName: Leo
+  frames:
+  - {fileID: 21300000, guid: b4d8fa2510923474baa16231f5b3eb44, type: 2}
+  - {fileID: 21300000, guid: 6754457273635a944a13880b5bcbb0d9, type: 2}
+  - {fileID: 21300000, guid: e52a2f1f47474ae4083cf0c1a5e94be6, type: 2}
+  - {fileID: 21300000, guid: 812f78ba97509134881a03ced1e1901f, type: 2}
+  - {fileID: 21300000, guid: 080c265490378e5469000cb44e06869b, type: 2}
+  - {fileID: 21300000, guid: afc61f423292ac949b87f62cdf1fd96c, type: 2}
+  - {fileID: 21300000, guid: b8c0d2562c31a0c469fc492b2062a96c, type: 2}
+  - {fileID: 21300000, guid: 049a4bf99d64db0479d2d98ffd4ed20a, type: 2}
+  - {fileID: 21300000, guid: b91ce0f49f10d8545b0d3475612cd165, type: 2}
+  - {fileID: 21300000, guid: 2a2681dbcf0a61f47bbc9b78045fe91f, type: 2}
+  - {fileID: 21300000, guid: 97e2bdbbd1d39a947a9c279744557460, type: 2}
+  - {fileID: 21300000, guid: 5ea05d25800189c429c4034173b3df0e, type: 2}
+  - {fileID: 21300000, guid: a3f87106edfc284499bbc812aa3d430b, type: 2}
+  - {fileID: 21300000, guid: 5fb07d5f2da37cf45b0968a2de2ee771, type: 2}
+  - {fileID: 21300000, guid: 22ab688cbcbec4b4c80fc88d3670d1b2, type: 2}
+  - {fileID: 21300000, guid: 56a8ef9cb0d964c46b13f383fc53f8ce, type: 2}
+  - {fileID: 21300000, guid: d3e2fb20dcbe20544941b71bf6eb4403, type: 2}
+  - {fileID: 21300000, guid: e02197d011b33f34ba883639cdce1eb8, type: 2}
+  - {fileID: 21300000, guid: 4c5d3bd375699074cb2a3cd2d0f0a5f1, type: 2}
+  - {fileID: 21300000, guid: 380051d7a3314444fa98116898aa1a3c, type: 2}
+  pulseFrames:
+  - {fileID: 21300000, guid: df2452af999918243ac634e8d116792f, type: 2}
+  - {fileID: 21300000, guid: 4e89d1af6377bd44891aa393c40d89cc, type: 2}
+  - {fileID: 21300000, guid: 1711a4adccc4a68438c8cd5cfff47297, type: 2}
+  - {fileID: 21300000, guid: 3044ef7dd87d4f145909059336fb7cec, type: 2}
+  energyColor: {r: 0.22, g: 0.86, b: 1, a: 1}
+  colliderSize: {x: 0.63, y: 1.48}
+  visualScale: 1

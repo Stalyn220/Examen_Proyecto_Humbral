@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="8" result="Passed" total="8" passed="8" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-10-22 03:55:55Z" end-time="2026-10-22 03:57:03Z" duration="68,4179151">
+  <test-suite type="TestSuite" id="1014" name="Proyecto Umbral" fullname="Proyecto Umbral" runstate="Runnable" testcasecount="8" result="Passed" start-time="2026-10-22 03:55:55Z" end-time="2026-10-22 03:57:03Z" duration="68.417915" total="8" passed="8" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="PlayMode" />
+    </properties>
+    <test-suite type="Assembly" id="1024" name="Umbral.PlayModeTests.dll" fullname="C:/Users/staly/OneDrive/Documentos/Videjuegos/Umbral_Implementacion/Library/ScriptAssemblies/Umbral.PlayModeTests.dll" runstate="Runnable" testcasecount="8" result="Passed" start-time="2026-10-22 03:55:55Z" end-time="2026-10-22 03:57:03Z" duration="68.405711" total="8" passed="8" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="1812" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="PlayMode" />
+        <property name="EditorOnly" value="False" />
+      </properties>
+      <test-suite type="TestFixture" id="1015" name="UmbralPlayTests" fullname="UmbralPlayTests" classname="UmbralPlayTests" runstate="Runnable" testcasecount="8" result="Passed" start-time="2026-10-22 03:55:55Z" end-time="2026-10-22 03:57:03Z" duration="68.401836" total="8" passed="8" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-case id="1019" name="CompleteSixSectorMissionUsingKeyboardWithoutTeleporting" fullname="UmbralPlayTests.CompleteSixSectorMissionUsingKeyboardWithoutTeleporting" methodname="CompleteSixSectorMissionUsingKeyboardWithoutTeleporting" classname="UmbralPlayTests" runstate="Runnable" seed="1283333581" result="Passed" start-time="2026-10-22 03:55:55Z" end-time="2026-10-22 03:56:40Z" duration="45.573854" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1016" name="KeyboardMovementJumpPauseAndGravity" fullname="UmbralPlayTests.KeyboardMovementJumpPauseAndGravity" methodname="KeyboardMovementJumpPauseAndGravity" classname="UmbralPlayTests" runstate="Runnable" seed="1188767115" result="Passed" start-time="2026-10-22 03:56:41Z" end-time="2026-10-22 03:56:45Z" duration="4.616478" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1022" name="ProfilesControlSpeedAndCharacterAppearance" fullname="UmbralPlayTests.ProfilesControlSpeedAndCharacterAppearance" methodname="ProfilesControlSpeedAndCharacterAppearance" classname="UmbralPlayTests" runstate="Runnable" seed="1245910609" result="Passed" start-time="2026-10-22 03:56:45Z" end-time="2026-10-22 03:56:46Z" duration="0.896633" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1017" name="ProgressionGatesRescueAndVictory" fullname="UmbralPlayTests.ProgressionGatesRescueAndVictory" methodname="ProgressionGatesRescueAndVictory" classname="UmbralPlayTests" runstate="Runnable" seed="981558515" result="Passed" start-time="2026-10-22 03:56:46Z" end-time="2026-10-22 03:56:54Z" duration="7.504815" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1020" name="ProjectileStopsAtWallAndCanBeFiredInAir" fullname="UmbralPlayTests.ProjectileStopsAtWallAndCanBeFiredInAir" methodname="ProjectileStopsAtWallAndCanBeFiredInAir" classname="UmbralPlayTests" runstate="Runnable" seed="1607016526" result="Passed" start-time="2026-10-22 03:56:54Z" end-time="2026-10-22 03:56:55Z" duration="1.922271" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1018" name="PulseDisablesDroneAndHazardPreservesModules" fullname="UmbralPlayTests.PulseDisablesDroneAndHazardPreservesModules" methodname="PulseDisablesDroneAndHazardPreservesModules" classname="UmbralPlayTests" runstate="Runnable" seed="431421614" result="Passed" start-time="2026-10-22 03:56:55Z" end-time="2026-10-22 03:56:59Z" duration="3.318672" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1021" name="ReinforcedEnemyRequiresTwoHitsAndIsDestroyed" fullname="UmbralPlayTests.ReinforcedEnemyRequiresTwoHitsAndIsDestroyed" methodname="ReinforcedEnemyRequiresTwoHitsAndIsDestroyed" classname="UmbralPlayTests" runstate="Runnable" seed="2000284472" result="Passed" start-time="2026-10-22 03:56:59Z" end-time="2026-10-22 03:57:00Z" duration="1.642302" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1023" name="RenderSixSectors" fullname="UmbralPlayTests.RenderSixSectors" methodname="RenderSixSectors" classname="UmbralPlayTests" runstate="Runnable" seed="2101265592" result="Passed" start-time="2026-10-22 03:57:00Z" end-time="2026-10-22 03:57:03Z" duration="2.868688" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+          <output><![CDATA[Saving results to: C:/Users/staly/AppData/LocalLow/Stalyn Quispe/Proyecto Umbral\TestResults.xml
+Saving results to: C:/Users/staly/AppData/LocalLow/Stalyn Quispe/Proyecto Umbral\TestResults.xml
+]]></output>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

@@ -1,0 +1,5 @@
+{
+  "name": "Umbral.Runtime",
+  "references": ["Unity.InputSystem"],
+  "autoReferenced": true
+}

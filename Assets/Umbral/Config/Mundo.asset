@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfb77a862b79ca04893c98bdcb2daa29, type: 3}
+  m_Name: Mundo
+  m_EditorClassIdentifier: Umbral.Runtime::Umbral.UmbralWorldConfig
+  minX: -4
+  maxX: 222
+  cameraY: 4
+  minSafeY: -4
+  maxSafeY: 13
+  sectors:
+  - title: DESPERTAR
+    startX: 0
+  - title: CONDUCTOS
+    startX: 32
+  - title: "LABORATORIO CRIOG\xC9NICO"
+    startX: 68
+  - title: "N\xDACLEO DE SEGURIDAD"
+    startX: 108
+  - title: REACTOR
+    startX: 146
+  - title: "HANGAR DE EVACUACI\xD3N"
+    startX: 184

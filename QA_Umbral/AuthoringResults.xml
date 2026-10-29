@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="1" result="Passed" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-10-22 03:49:58Z" end-time="2026-10-22 03:49:59Z" duration="1,0150868">
+  <test-suite type="TestSuite" id="1000" name="Proyecto Umbral" fullname="Proyecto Umbral" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-10-22 03:49:58Z" end-time="2026-10-22 03:49:59Z" duration="1.015087" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="EditMode" />
+    </properties>
+    <test-suite type="Assembly" id="1003" name="Umbral.AuthoringTests.dll" fullname="C:/Users/staly/OneDrive/Documentos/Videjuegos/Umbral_Implementacion/Library/ScriptAssemblies/Umbral.AuthoringTests.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-10-22 03:49:58Z" end-time="2026-10-22 03:49:59Z" duration="1.003483" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="3600" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="EditMode" />
+        <property name="EditorOnly" value="True" />
+      </properties>
+      <test-suite type="TestFixture" id="1001" name="UmbralAuthoringTests" fullname="UmbralAuthoringTests" classname="UmbralAuthoringTests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-10-22 03:49:58Z" end-time="2026-10-22 03:49:59Z" duration="1.001423" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-case id="1002" name="NewRoomConnectsTerrainUpdatesCameraAndMovesPortal" fullname="UmbralAuthoringTests.NewRoomConnectsTerrainUpdatesCameraAndMovesPortal" methodname="NewRoomConnectsTerrainUpdatesCameraAndMovesPortal" classname="UmbralAuthoringTests" runstate="Runnable" seed="244313250" result="Passed" start-time="2026-10-22 03:49:58Z" end-time="2026-10-22 03:49:59Z" duration="0.976831" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+          <output><![CDATA[Sala añadida. Guarda la escena con Ctrl+S y prueba la conexión.
+Sala añadida. Guarda la escena con Ctrl+S y prueba la conexión.
+Saving results to: C:/Users/staly/AppData/LocalLow/Stalyn Quispe/Proyecto Umbral\TestResults.xml
+Saving results to: C:/Users/staly/AppData/LocalLow/Stalyn Quispe/Proyecto Umbral\TestResults.xml
+]]></output>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

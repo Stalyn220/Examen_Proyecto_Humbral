@@ -1,0 +1,686 @@
+{
+  "project": "C:\\Users\\staly\\Proyecto Primer Parcial",
+  "clientDate": "2026-10-21",
+  "unityVersion": "m_EditorVersion: 6000.6.4f1",
+  "sourceFiles": [
+    {
+      "path": "Assets/Umbral/Editor/UmbralAuthoringTools.cs",
+      "lines": 138,
+      "sha256": "9b2a0c9c0a5d483e561abeb81db74cddef93010bcd6b1a644243601af63424e8",
+      "classes": [
+        "UmbralRoomWindow",
+        "UmbralRoomAuthoring",
+        "UmbralCharacterWindow"
+      ],
+      "methods": [
+        {
+          "name": "Open",
+          "line": 18
+        },
+        {
+          "name": "OnGUI",
+          "line": 19
+        },
+        {
+          "name": "AddRoom",
+          "line": 39
+        },
+        {
+          "name": "Draw",
+          "line": 98
+        },
+        {
+          "name": "Open",
+          "line": 112
+        },
+        {
+          "name": "OnGUI",
+          "line": 113
+        }
+      ]
+    },
+    {
+      "path": "Assets/Umbral/Editor/UmbralBuilder.cs",
+      "lines": 564,
+      "sha256": "6d85cdfb00455e7e8b7917f7a04153671c4ab45316c665d2b5a6861340b62f2b",
+      "classes": [
+        "UmbralBuilder"
+      ],
+      "methods": [
+        {
+          "name": "Generate",
+          "line": 29
+        },
+        {
+          "name": "ImportAtlas",
+          "line": 158
+        },
+        {
+          "name": "SliceCharacterAtlas",
+          "line": 162
+        },
+        {
+          "name": "ImportAtlasFromPath",
+          "line": 164
+        },
+        {
+          "name": "CharacterDefinition",
+          "line": 202
+        },
+        {
+          "name": "SaveAsset",
+          "line": 212
+        },
+        {
+          "name": "Draw",
+          "line": 249
+        },
+        {
+          "name": "Rect",
+          "line": 261
+        },
+        {
+          "name": "Sign",
+          "line": 263
+        },
+        {
+          "name": "Background",
+          "line": 282
+        },
+        {
+          "name": "Floor",
+          "line": 334
+        },
+        {
+          "name": "Layout",
+          "line": 338
+        },
+        {
+          "name": "Breakable",
+          "line": 401
+        },
+        {
+          "name": "Prop",
+          "line": 423
+        },
+        {
+          "name": "Module",
+          "line": 438
+        },
+        {
+          "name": "Zone",
+          "line": 447
+        },
+        {
+          "name": "Hazards",
+          "line": 460
+        },
+        {
+          "name": "Door",
+          "line": 467
+        },
+        {
+          "name": "Checkpoint",
+          "line": 482
+        },
+        {
+          "name": "Hint",
+          "line": 489
+        },
+        {
+          "name": "CreatePlayer",
+          "line": 495
+        },
+        {
+          "name": "Companion",
+          "line": 517
+        },
+        {
+          "name": "Drone",
+          "line": 524
+        },
+        {
+          "name": "Validate",
+          "line": 538
+        },
+        {
+          "name": "BuildWindows",
+          "line": 552
+        }
+      ]
+    },
+    {
+      "path": "Assets/Umbral/Scripts/UmbralCamera.cs",
+      "lines": 28,
+      "sha256": "ba7753e08cf08ca565b0a9769a8b33f9c19f365e469a91c21fe03fe52d260d5f",
+      "classes": [
+        "UmbralCamera"
+      ],
+      "methods": [
+        {
+          "name": "Awake",
+          "line": 11
+        },
+        {
+          "name": "Snap",
+          "line": 12
+        },
+        {
+          "name": "Position",
+          "line": 13
+        },
+        {
+          "name": "LateUpdate",
+          "line": 23
+        }
+      ]
+    },
+    {
+      "path": "Assets/Umbral/Scripts/UmbralCapture.cs",
+      "lines": 55,
+      "sha256": "6e1004774247e4f0b491e7752d13ba306e5063f471ff7c301cca71b4c4947b3a",
+      "classes": [
+        "UmbralCapture"
+      ],
+      "methods": [
+        {
+          "name": "Start",
+          "line": 12
+        },
+        {
+          "name": "Capture",
+          "line": 49
+        }
+      ]
+    },
+    {
+      "path": "Assets/Umbral/Scripts/UmbralCharacterDefinition.cs",
+      "lines": 17,
+      "sha256": "51f89e1d25077cec9e8c6954323feb355db22dcbcb66980d3f854dc264b0f788",
+      "classes": [
+        "UmbralCharacterDefinition"
+      ],
+      "methods": []
+    },
+    {
+      "path": "Assets/Umbral/Scripts/UmbralCompanion.cs",
+      "lines": 45,
+      "sha256": "d30a436ec0df1b71f29cc5b7736d1f207fd66f82893d1898d36406619ccb234e",
+      "classes": [
+        "UmbralCompanion"
+      ],
+      "methods": [
+        {
+          "name": "Awake",
+          "line": 11
+        },
+        {
+          "name": "Update",
+          "line": 19
+        }
+      ]
+    },
+    {
+      "path": "Assets/Umbral/Scripts/UmbralDamageable.cs",
+      "lines": 53,
+      "sha256": "479477567fadc8c6f7f525b74cae3c2bceed576d6324f36cd60c56078ef405dc",
+      "classes": [
+        "UmbralDamageable"
+      ],
+      "methods": [
+        {
+          "name": "Awake",
+          "line": 18
+        },
+        {
+          "name": "Update",
+          "line": 25
+        },
+        {
+          "name": "Hit",
+          "line": 31
+        }
+      ]
+    },
+    {
+      "path": "Assets/Umbral/Scripts/UmbralDrone.cs",
+      "lines": 28,
+      "sha256": "5bc5efe010b749417d7c06186efe2b2824a64125413248e7231ba67c6f7102fd",
+      "classes": [
+        "UmbralDrone"
+      ],
+      "methods": [
+        {
+          "name": "Awake",
+          "line": 13
+        },
+        {
+          "name": "Update",
+          "line": 14
+        },
+        {
+          "name": "Disable",
+          "line": 21
+        },
+        {
+          "name": "OnTriggerStay2D",
+          "line": 22
+        }
+      ]
+    },
+    {
+      "path": "Assets/Umbral/Scripts/UmbralEffect.cs",
+      "lines": 31,
+      "sha256": "1868451695fc53661e2d309d3fda188ea325c052a3dad9eef58b173bc2edd234",
+      "classes": [
+        "UmbralEffect"
+      ],
+      "methods": [
+        {
+          "name": "Awake",
+          "line": 14
+        },
+        {
+          "name": "Update",
+          "line": 20
+        }
+      ]
+    },
+    {
+      "path": "Assets/Umbral/Scripts/UmbralGame.cs",
+      "lines": 363,
+      "sha256": "49bd0452ef4d3626efcbc8f968592e1029aedac51c08a975bb0b15aa9738a42d",
+      "classes": [
+        "UmbralGame"
+      ],
+      "methods": [
+        {
+          "name": "Awake",
+          "line": 44
+        },
+        {
+          "name": "OnDestroy",
+          "line": 61
+        },
+        {
+          "name": "Update",
+          "line": 67
+        },
+        {
+          "name": "StartGame",
+          "line": 91
+        },
+        {
+          "name": "IsGravityZone",
+          "line": 99
+        },
+        {
+          "name": "Pause",
+          "line": 107
+        },
+        {
+          "name": "TryInteract",
+          "line": 113
+        },
+        {
+          "name": "Rescue",
+          "line": 129
+        },
+        {
+          "name": "Win",
+          "line": 139
+        },
+        {
+          "name": "Notify",
+          "line": 148
+        },
+        {
+          "name": "Sound",
+          "line": 154
+        },
+        {
+          "name": "Pulse",
+          "line": 170
+        },
+        {
+          "name": "HasCircuit",
+          "line": 182
+        },
+        {
+          "name": "ActivateCircuit",
+          "line": 183
+        },
+        {
+          "name": "Explosion",
+          "line": 187
+        },
+        {
+          "name": "Shot",
+          "line": 206
+        },
+        {
+          "name": "Styles",
+          "line": 224
+        },
+        {
+          "name": "Box",
+          "line": 237
+        },
+        {
+          "name": "Panel",
+          "line": 243
+        },
+        {
+          "name": "Button",
+          "line": 248
+        },
+        {
+          "name": "OnGUI",
+          "line": 256
+        },
+        {
+          "name": "DrawTitle",
+          "line": 308
+        },
+        {
+          "name": "DrawPause",
+          "line": 333
+        },
+        {
+          "name": "DrawEnding",
+          "line": 346
+        },
+        {
+          "name": "Restart",
+          "line": 357
+        }
+      ]
+    },
+    {
+      "path": "Assets/Umbral/Scripts/UmbralMovementSettings.cs",
+      "lines": 28,
+      "sha256": "3cab0707ce1b8829046a482c670ec48c736badaed924846043e59b548c04c795",
+      "classes": [
+        "UmbralMovementSettings"
+      ],
+      "methods": []
+    },
+    {
+      "path": "Assets/Umbral/Scripts/UmbralPlayer.cs",
+      "lines": 191,
+      "sha256": "840af474956431bf422eee3e4c81219c459cdbffca92427df0f94d8305f9b2c2",
+      "classes": [
+        "UmbralPlayer"
+      ],
+      "methods": [
+        {
+          "name": "Awake",
+          "line": 33
+        },
+        {
+          "name": "Update",
+          "line": 44
+        },
+        {
+          "name": "FixedUpdate",
+          "line": 73
+        },
+        {
+          "name": "TryFlip",
+          "line": 97
+        },
+        {
+          "name": "TryAttack",
+          "line": 117
+        },
+        {
+          "name": "SetCheckpoint",
+          "line": 128
+        },
+        {
+          "name": "Respawn",
+          "line": 135
+        },
+        {
+          "name": "ApplyCharacter",
+          "line": 156
+        },
+        {
+          "name": "Animate",
+          "line": 170
+        }
+      ]
+    },
+    {
+      "path": "Assets/Umbral/Scripts/UmbralProjectile.cs",
+      "lines": 51,
+      "sha256": "2c637a2dda400f3b33d39834ff1670996bc320b970a18b3742626d80c61f4ee2",
+      "classes": [
+        "UmbralProjectile"
+      ],
+      "methods": [
+        {
+          "name": "Awake",
+          "line": 15
+        },
+        {
+          "name": "FixedUpdate",
+          "line": 20
+        },
+        {
+          "name": "Update",
+          "line": 44
+        }
+      ]
+    },
+    {
+      "path": "Assets/Umbral/Scripts/UmbralProp.cs",
+      "lines": 121,
+      "sha256": "3efd8ebc5bce1d09b5dcd574ec449c42748e2402e1b94ec7bfd387be31bfbdc6",
+      "classes": [
+        "UmbralProp"
+      ],
+      "methods": [
+        {
+          "name": "Update",
+          "line": 31
+        },
+        {
+          "name": "Interact",
+          "line": 54
+        },
+        {
+          "name": "OnTriggerEnter2D",
+          "line": 97
+        },
+        {
+          "name": "OnTriggerStay2D",
+          "line": 114
+        }
+      ]
+    },
+    {
+      "path": "Assets/Umbral/Scripts/UmbralWorldConfig.cs",
+      "lines": 32,
+      "sha256": "66773a66225a18bdc0c71689c8e22013bf42d4954847f3febd5d38f6e6024c50",
+      "classes": [
+        "UmbralWorldConfig"
+      ],
+      "methods": [
+        {
+          "name": "SectorAt",
+          "line": 25
+        }
+      ]
+    },
+    {
+      "path": "Assets/Umbral/Tests/Editor/UmbralAuthoringTests.cs",
+      "lines": 36,
+      "sha256": "22250b448d0d4af87159b7971c33f40d173e683594e9580eb5fe2d38c2f62af0",
+      "classes": [
+        "UmbralAuthoringTests"
+      ],
+      "methods": [
+        {
+          "name": "NewRoomConnectsTerrainUpdatesCameraAndMovesPortal",
+          "line": 12
+        }
+      ]
+    },
+    {
+      "path": "Assets/Umbral/Tests/PlayMode/UmbralPlayTests.cs",
+      "lines": 341,
+      "sha256": "38ff7ddf496e1665b12d492dd7f1673b4655d998f5e43dc92fab607ea42013cc",
+      "classes": [
+        "UmbralPlayTests"
+      ],
+      "methods": [
+        {
+          "name": "SetUp",
+          "line": 21
+        },
+        {
+          "name": "TearDown",
+          "line": 41
+        },
+        {
+          "name": "IgnoreOtherDevices",
+          "line": 51
+        },
+        {
+          "name": "Keys",
+          "line": 56
+        },
+        {
+          "name": "Place",
+          "line": 64
+        },
+        {
+          "name": "Prop",
+          "line": 72
+        },
+        {
+          "name": "KeyboardMovementJumpPauseAndGravity",
+          "line": 75
+        },
+        {
+          "name": "ProgressionGatesRescueAndVictory",
+          "line": 104
+        },
+        {
+          "name": "PulseDisablesDroneAndHazardPreservesModules",
+          "line": 155
+        },
+        {
+          "name": "CompleteSixSectorMissionUsingKeyboardWithoutTeleporting",
+          "line": 184
+        },
+        {
+          "name": "FlipAndLand",
+          "line": 231
+        },
+        {
+          "name": "MoveTo",
+          "line": 238
+        },
+        {
+          "name": "DisableWithKeyboard",
+          "line": 249
+        },
+        {
+          "name": "ProjectileStopsAtWallAndCanBeFiredInAir",
+          "line": 260
+        },
+        {
+          "name": "ReinforcedEnemyRequiresTwoHitsAndIsDestroyed",
+          "line": 285
+        },
+        {
+          "name": "ProfilesControlSpeedAndCharacterAppearance",
+          "line": 303
+        },
+        {
+          "name": "RenderSixSectors",
+          "line": 318
+        }
+      ]
+    }
+  ],
+  "scene": {
+    "path": "Assets/Umbral/Scenes/Umbral.unity",
+    "sha256": "b3de642715c2b58ce7eada26b0d1b6139d0ad3207096404730bf3c8f77d330f1",
+    "roots": [
+      "Laboratorio · Tilemap de superficies",
+      "Main Camera",
+      "02 · Recorrido / objetivos y peligros",
+      "UMBRAL · Control de misión",
+      "01 · Estación / fondo y maquinaria",
+      "Leo · Protagonista"
+    ],
+    "componentCounts": {
+      "Umbral.Runtime::Umbral.UmbralProp": 43,
+      "Umbral.Runtime::Umbral.UmbralDrone": 8,
+      "Umbral.Runtime::Umbral.UmbralDamageable": 14,
+      "Umbral.Runtime::Umbral.UmbralCamera": 1,
+      "Umbral.Runtime::Umbral.UmbralCompanion": 2,
+      "Umbral.Runtime::Umbral.UmbralGame": 1,
+      "Umbral.Runtime::Umbral.UmbralPlayer": 1
+    },
+    "prefabInstanceBlocks": 0,
+    "animatorComponents": 0,
+    "canvasComponents": 0
+  },
+  "lastSavedTestResults": {
+    "PlayModeResults.xml": {
+      "passed": "8",
+      "failed": "0",
+      "endTimeUTC": "2026-10-22 03:57:03Z",
+      "tests": [
+        {
+          "name": "CompleteSixSectorMissionUsingKeyboardWithoutTeleporting",
+          "result": "Passed"
+        },
+        {
+          "name": "KeyboardMovementJumpPauseAndGravity",
+          "result": "Passed"
+        },
+        {
+          "name": "ProfilesControlSpeedAndCharacterAppearance",
+          "result": "Passed"
+        },
+        {
+          "name": "ProgressionGatesRescueAndVictory",
+          "result": "Passed"
+        },
+        {
+          "name": "ProjectileStopsAtWallAndCanBeFiredInAir",
+          "result": "Passed"
+        },
+        {
+          "name": "PulseDisablesDroneAndHazardPreservesModules",
+          "result": "Passed"
+        },
+        {
+          "name": "ReinforcedEnemyRequiresTwoHitsAndIsDestroyed",
+          "result": "Passed"
+        },
+        {
+          "name": "RenderSixSectors",
+          "result": "Passed"
+        }
+      ]
+    },
+    "AuthoringResults.xml": {
+      "passed": "1",
+      "failed": "0",
+      "endTimeUTC": "2026-10-22 03:49:59Z",
+      "tests": [
+        {
+          "name": "NewRoomConnectsTerrainUpdatesCameraAndMovesPortal",
+          "result": "Passed"
+        }
+      ]
+    }
+  },
+  "nativeAnimationAssets": []
+}

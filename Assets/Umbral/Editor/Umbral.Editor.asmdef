@@ -1,0 +1,6 @@
+{
+  "name": "Umbral.Editor",
+  "references": ["Umbral.Runtime"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

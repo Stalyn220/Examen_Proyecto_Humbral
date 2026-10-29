@@ -1,0 +1,3824 @@
+fileFormatVersion: 2
+guid: 68647f943dca4a4498211d0187abaa38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1570724930152057059
+    second: Leo_Atlas_4x5_0
+  - first:
+      213: 3351033458417137632
+    second: Leo_Atlas_4x5_1
+  - first:
+      213: -3618820867716601923
+    second: Leo_Atlas_4x5_2
+  - first:
+      213: 2876595261933653352
+    second: Leo_Atlas_4x5_3
+  - first:
+      213: -7858901544073839719
+    second: Leo_Atlas_4x5_4
+  - first:
+      213: -5471827964394390819
+    second: Leo_Atlas_4x5_5
+  - first:
+      213: 3470362221054052487
+    second: Leo_Atlas_4x5_6
+  - first:
+      213: 5263771856880846248
+    second: Leo_Atlas_4x5_7
+  - first:
+      213: 1468835012975048684
+    second: Leo_Atlas_4x5_8
+  - first:
+      213: 1804617221142457856
+    second: Leo_Atlas_4x5_9
+  - first:
+      213: 1827114138155664826
+    second: Leo_Atlas_4x5_10
+  - first:
+      213: 2305097139619022882
+    second: Leo_Atlas_4x5_11
+  - first:
+      213: 7091389807993309802
+    second: Leo_Atlas_4x5_12
+  - first:
+      213: -6143996569674024392
+    second: Leo_Atlas_4x5_13
+  - first:
+      213: 1667591830832281794
+    second: Leo_Atlas_4x5_14
+  - first:
+      213: 2508808669614134598
+    second: Leo_Atlas_4x5_15
+  - first:
+      213: -181769937893638929
+    second: Leo_Atlas_4x5_16
+  - first:
+      213: 9188654187896160300
+    second: Leo_Atlas_4x5_17
+  - first:
+      213: 3721453246175381449
+    second: Leo_Atlas_4x5_18
+  - first:
+      213: -8468759542261535489
+    second: Leo_Atlas_4x5_19
+  - first:
+      213: -224504960362307837
+    second: Leo_Atlas_4x5_20
+  - first:
+      213: 3467629337702475808
+    second: Leo_Atlas_4x5_21
+  - first:
+      213: -8357183457915141685
+    second: Leo_Atlas_4x5_22
+  - first:
+      213: 9183446399820856359
+    second: Leo_Atlas_4x5_23
+  - first:
+      213: -6853042962116631569
+    second: Leo_Atlas_4x5_24
+  - first:
+      213: 6802798558496157241
+    second: Leo_Atlas_4x5_25
+  - first:
+      213: -6180308763600670983
+    second: Leo_Atlas_4x5_26
+  - first:
+      213: 5305358084095065385
+    second: Leo_Atlas_4x5_27
+  - first:
+      213: 5284506914918908187
+    second: Leo_Atlas_4x5_28
+  - first:
+      213: 6494690584522957725
+    second: Leo_Atlas_4x5_29
+  - first:
+      213: -8121456533590726174
+    second: Leo_Atlas_4x5_30
+  - first:
+      213: 3173233046569122312
+    second: Leo_Atlas_4x5_31
+  - first:
+      213: 2885655536154910957
+    second: Leo_Atlas_4x5_32
+  - first:
+      213: -6513912977936350590
+    second: Leo_Atlas_4x5_33
+  - first:
+      213: -520135412042503318
+    second: Leo_Atlas_4x5_34
+  - first:
+      213: 9194629968528497235
+    second: Leo_Atlas_4x5_35
+  - first:
+      213: 3308911252667546062
+    second: Leo_Atlas_4x5_36
+  - first:
+      213: -1172045654124000528
+    second: Leo_Atlas_4x5_37
+  - first:
+      213: 1561598486913465804
+    second: Leo_Atlas_4x5_38
+  - first:
+      213: 2293142792424023545
+    second: Leo_Atlas_4x5_39
+  - first:
+      213: 6705195308810713322
+    second: Leo_Atlas_4x5_40
+  - first:
+      213: 8787037234475142104
+    second: Leo_Atlas_4x5_41
+  - first:
+      213: -9061801917286962213
+    second: Leo_Atlas_4x5_42
+  - first:
+      213: -3693246119536807835
+    second: Leo_Atlas_4x5_43
+  - first:
+      213: 8452779263163753675
+    second: Leo_Atlas_4x5_44
+  - first:
+      213: -4723639705587512618
+    second: Leo_Atlas_4x5_45
+  - first:
+      213: 1267611044301176482
+    second: Leo_Atlas_4x5_46
+  - first:
+      213: -4260609897262340640
+    second: Leo_Atlas_4x5_47
+  - first:
+      213: -618627491696395956
+    second: Leo_Atlas_4x5_48
+  - first:
+      213: -7939771723812624106
+    second: Leo_Atlas_4x5_49
+  - first:
+      213: 8604043595617808504
+    second: Leo_Atlas_4x5_50
+  - first:
+      213: -2650959122173390555
+    second: Leo_Atlas_4x5_51
+  - first:
+      213: 4832372157288417167
+    second: Leo_Atlas_4x5_52
+  - first:
+      213: -8974156130396801007
+    second: Leo_Atlas_4x5_53
+  - first:
+      213: 2106941156091512780
+    second: Leo_Atlas_4x5_54
+  - first:
+      213: 1956799023129037775
+    second: Leo_Atlas_4x5_55
+  - first:
+      213: -3183333178919306310
+    second: Leo_Atlas_4x5_56
+  - first:
+      213: -2952475992012700853
+    second: Leo_Atlas_4x5_57
+  - first:
+      213: 8091725619183720098
+    second: Leo_Atlas_4x5_58
+  - first:
+      213: -6232963109519420141
+    second: Leo_Atlas_4x5_59
+  - first:
+      213: 1101369193565276750
+    second: Leo_Atlas_4x5_60
+  - first:
+      213: 2215918040041603093
+    second: Leo_Atlas_4x5_61
+  - first:
+      213: -1997161422248402453
+    second: Leo_Atlas_4x5_62
+  - first:
+      213: -551639834554604133
+    second: Leo_Atlas_4x5_63
+  - first:
+      213: -4256231654714642600
+    second: Leo_Atlas_4x5_64
+  - first:
+      213: -5699211108317439205
+    second: Leo_Atlas_4x5_65
+  - first:
+      213: 7258702864064282169
+    second: Leo_Atlas_4x5_66
+  - first:
+      213: 6913080683093974180
+    second: Leo_Atlas_4x5_67
+  - first:
+      213: 8227080442324435665
+    second: Leo_Atlas_4x5_68
+  - first:
+      213: 5383134395688197706
+    second: Leo_Atlas_4x5_69
+  - first:
+      213: 722618974760227701
+    second: Leo_Atlas_4x5_70
+  - first:
+      213: 6188892549553845976
+    second: Leo_Atlas_4x5_71
+  - first:
+      213: -8297311677183533124
+    second: Leo_Atlas_4x5_72
+  - first:
+      213: 7741266422167125444
+    second: Leo_Atlas_4x5_73
+  - first:
+      213: -420520810073237285
+    second: Leo_Atlas_4x5_74
+  - first:
+      213: 46675952971726956
+    second: Leo_Atlas_4x5_75
+  - first:
+      213: 1578005276993759624
+    second: Leo_Atlas_4x5_76
+  - first:
+      213: 5310111856807592469
+    second: Leo_Atlas_4x5_77
+  - first:
+      213: 1274536526528725991
+    second: Leo_Atlas_4x5_78
+  - first:
+      213: 3801584447802274878
+    second: Leo_Atlas_4x5_79
+  - first:
+      213: 6855973466555014584
+    second: Leo_Atlas_4x5_80
+  - first:
+      213: 386520492989405445
+    second: Leo_Atlas_4x5_81
+  - first:
+      213: -6228935575925774188
+    second: Leo_Atlas_4x5_82
+  - first:
+      213: -2582887146007030310
+    second: Leo_Atlas_4x5_83
+  - first:
+      213: -148667548053441405
+    second: Leo_Atlas_4x5_84
+  - first:
+      213: -6915485095789293499
+    second: Leo_Atlas_4x5_85
+  - first:
+      213: 5474743256434309163
+    second: Leo_Atlas_4x5_86
+  - first:
+      213: 2148463903157347130
+    second: Leo_Atlas_4x5_87
+  - first:
+      213: 4251726357035280002
+    second: Leo_Atlas_4x5_88
+  - first:
+      213: -6656380040637189955
+    second: Leo_Atlas_4x5_89
+  - first:
+      213: 7639410051219385003
+    second: Leo_Atlas_4x5_90
+  - first:
+      213: -5973909965139016453
+    second: Leo_Atlas_4x5_91
+  - first:
+      213: -7797476440774411700
+    second: Leo_Atlas_4x5_92
+  - first:
+      213: 6348280373629003987
+    second: Leo_Atlas_4x5_93
+  - first:
+      213: -5697039008879172404
+    second: Leo_Atlas_4x5_94
+  - first:
+      213: -2155606342177673645
+    second: Leo_Atlas_4x5_95
+  - first:
+      213: 5847856443554332531
+    second: Leo_Atlas_4x5_96
+  - first:
+      213: -5536974068184135427
+    second: Leo_Atlas_4x5_97
+  - first:
+      213: 9222175899411888080
+    second: Leo_Atlas_4x5_98
+  - first:
+      213: -4199082211319825210
+    second: Leo_Atlas_4x5_99
+  - first:
+      213: -7370796055433329637
+    second: Leo_Atlas_4x5_100
+  - first:
+      213: -630517717314680705
+    second: Leo_Atlas_4x5_101
+  - first:
+      213: 747368337200057782
+    second: Leo_Atlas_4x5_102
+  - first:
+      213: -7658762870539718827
+    second: Leo_Atlas_4x5_103
+  - first:
+      213: -2007971996946198053
+    second: Leo_Atlas_4x5_104
+  - first:
+      213: -3434055355682784757
+    second: Leo_Atlas_4x5_105
+  - first:
+      213: 2186633208201365799
+    second: Leo_Atlas_4x5_106
+  - first:
+      213: -1076698654591227956
+    second: Leo_Atlas_4x5_107
+  - first:
+      213: -1664346807137481737
+    second: Leo_Atlas_4x5_108
+  - first:
+      213: -588676102726218579
+    second: Leo_Atlas_4x5_109
+  - first:
+      213: 6534220975138527298
+    second: Leo_Atlas_4x5_110
+  - first:
+      213: 4909249921376917702
+    second: Leo_Atlas_4x5_111
+  - first:
+      213: 9175817557027054865
+    second: Leo_Atlas_4x5_112
+  - first:
+      213: -555718094851312083
+    second: Leo_Atlas_4x5_113
+  - first:
+      213: -4299032342564571957
+    second: Leo_Atlas_4x5_114
+  - first:
+      213: -7634827094740381289
+    second: Leo_Atlas_4x5_115
+  - first:
+      213: 2235504336283671942
+    second: Leo_Atlas_4x5_116
+  - first:
+      213: -6600770684836377287
+    second: Leo_Atlas_4x5_117
+  - first:
+      213: 2360231388344897488
+    second: Leo_Atlas_4x5_118
+  - first:
+      213: -5164674593129802183
+    second: Leo_Atlas_4x5_119
+  - first:
+      213: -8416899609427708454
+    second: Leo_Atlas_4x5_120
+  - first:
+      213: 5768850690842174156
+    second: Leo_Atlas_4x5_121
+  - first:
+      213: 8442697104659899019
+    second: Leo_Atlas_4x5_122
+  - first:
+      213: 7460780748703904046
+    second: Leo_Atlas_4x5_123
+  - first:
+      213: 5614755189466079408
+    second: Leo_Atlas_4x5_124
+  - first:
+      213: 6605722652696955783
+    second: Leo_Atlas_4x5_125
+  - first:
+      213: -1024072815280339192
+    second: Leo_Atlas_4x5_126
+  - first:
+      213: 6031360881079004104
+    second: Leo_Atlas_4x5_127
+  - first:
+      213: 5228116319937226257
+    second: Leo_Atlas_4x5_128
+  - first:
+      213: -3314064359525367556
+    second: Leo_Atlas_4x5_129
+  - first:
+      213: -629532766737979982
+    second: Leo_Atlas_4x5_130
+  - first:
+      213: 1016321174171603740
+    second: Leo_Atlas_4x5_131
+  - first:
+      213: -6566257802997967429
+    second: Leo_Atlas_4x5_132
+  - first:
+      213: -6123249797807263532
+    second: Leo_Atlas_4x5_133
+  - first:
+      213: -5688561848778707747
+    second: Leo_Atlas_4x5_134
+  - first:
+      213: -3462609905404521746
+    second: Leo_Atlas_4x5_135
+  - first:
+      213: 6543900277270956717
+    second: Leo_Atlas_4x5_136
+  - first:
+      213: 3044557375450678324
+    second: Leo_Atlas_4x5_137
+  - first:
+      213: 7463895406026504124
+    second: Leo_Atlas_4x5_138
+  - first:
+      213: 8938603757511541160
+    second: Leo_Atlas_4x5_139
+  - first:
+      213: -6472113873067500835
+    second: Leo_Atlas_4x5_140
+  - first:
+      213: -7685975098619938297
+    second: Leo_Atlas_4x5_141
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 553
+        width: 379
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17bf628ff9a33ae0800000000000000
+      internalID: -1570724930152057059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_1
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1130
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7f6670d23418e20800000000000000
+      internalID: 3351033458417137632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_2
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1039
+        width: 61
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db72bf9189d57cdc0800000000000000
+      internalID: -3618820867716601923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_3
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 893
+        width: 164
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d802e5628bbe720800000000000000
+      internalID: 2876595261933653352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_4
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1085
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bb5b41fa29fe290800000000000000
+      internalID: -7858901544073839719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 217
+        width: 369
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda393615792014b0800000000000000
+      internalID: -5471827964394390819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_6
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1055
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788ccd3ad04392030800000000000000
+      internalID: 3470362221054052487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_7
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1065
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5c41c7d9cac0940800000000000000
+      internalID: 5263771856880846248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_8
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 894
+        width: 124
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7b80e79a9526410800000000000000
+      internalID: 1468835012975048684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_9
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1078
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eafb52dc94b0910800000000000000
+      internalID: 1804617221142457856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_10
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1055
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5ccd0d0a63b5910800000000000000
+      internalID: 1827114138155664826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_11
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1085
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228c2c3b2a95dff10800000000000000
+      internalID: 2305097139619022882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_12
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 636
+        width: 349
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a4445657da96260800000000000000
+      internalID: 7091389807993309802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_13
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1071
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a7c531ca32cbaa0800000000000000
+      internalID: -6143996569674024392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_14
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1083
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8f9135fe9742710800000000000000
+      internalID: 1667591830832281794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_15
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1068
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64555c9513411d220800000000000000
+      internalID: 2508808669614134598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_16
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1020
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec310d54393a7df0800000000000000
+      internalID: -181769937893638929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_17
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1017
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20c471ec48a48f70800000000000000
+      internalID: 9188654187896160300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_18
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 991
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c70282a20245a330800000000000000
+      internalID: 3721453246175381449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_19
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 840
+        width: 86
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc2d43d01ce87a80800000000000000
+      internalID: -8468759542261535489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_20
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 989
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f9a439de562ecf0800000000000000
+      internalID: -224504960362307837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_21
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 983
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028aa76a28e7f1030800000000000000
+      internalID: 3467629337702475808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_22
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 973
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1823c5ce1550c80800000000000000
+      internalID: -8357183457915141685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 950
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c792b38d7227f70800000000000000
+      internalID: 9183446399820856359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_24
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 904
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe32c842cb915e0a0800000000000000
+      internalID: -6853042962116631569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 904
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ee3b50f35686e50800000000000000
+      internalID: 6802798558496157241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_26
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 942
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe29579ce12b3aa0800000000000000
+      internalID: -6180308763600670983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_27
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 930
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dbbb8811b60a940800000000000000
+      internalID: 5305358084095065385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_28
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 928
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1146d46a07565940800000000000000
+      internalID: 5284506914918908187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_29
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 954
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93a0902da6c12a50800000000000000
+      internalID: 6494690584522957725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_30
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 930
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9ac80ef4aca4f80800000000000000
+      internalID: -8121456533590726174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_31
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 910
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a7842b4a6990c20800000000000000
+      internalID: 3173233046569122312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_32
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 908
+        width: 96
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de027a8db68eb0820800000000000000
+      internalID: 2885655536154910957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_33
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 235
+        width: 292
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2820c44a8aee995a0800000000000000
+      internalID: -6513912977936350590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_34
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 897
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bea1a399b18c8f0800000000000000
+      internalID: -520135412042503318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 862
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a5d4bbd33e99f70800000000000000
+      internalID: 9194629968528497235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_36
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 840
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9ba80c04d9bed20800000000000000
+      internalID: 3308911252667546062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_37
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 876
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa0665ffae0cbfe0800000000000000
+      internalID: -1172045654124000528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_38
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 872
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdb346dc89eba510800000000000000
+      internalID: 1561598486913465804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_39
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 846
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f56ea95831e2df10800000000000000
+      internalID: 2293142792424023545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_40
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 827
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae837439b93ad0d50800000000000000
+      internalID: 6705195308810713322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_41
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 829
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db850d1fc3d1f970800000000000000
+      internalID: 8787037234475142104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_42
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 811
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb282fea230e3280800000000000000
+      internalID: -9061801917286962213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_43
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 813
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5603be0d834febcc0800000000000000
+      internalID: -3693246119536807835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_44
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 785
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4e9a184fd4e4570800000000000000
+      internalID: 8452779263163753675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_45
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 795
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da8685f6b2427eb0800000000000000
+      internalID: -4723639705587512618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_46
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 795
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aefee85785779110800000000000000
+      internalID: 1267611044301176482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_47
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 737
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e52a234fd54fd4c0800000000000000
+      internalID: -4260609897262340640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_48
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 781
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49352de2913a67f0800000000000000
+      internalID: -618627491696395956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_49
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 795
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61925741fa340d190800000000000000
+      internalID: -7939771723812624106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_50
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 765
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87036c46014b76770800000000000000
+      internalID: 8604043595617808504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_51
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 780
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52116c849b6e53bd0800000000000000
+      internalID: -2650959122173390555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_52
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 761
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f870aa1cfd8001340800000000000000
+      internalID: 4832372157288417167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_53
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 775
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118fdc8eb84657380800000000000000
+      internalID: -8974156130396801007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_54
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 757
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc74c7381db5d3d10800000000000000
+      internalID: 2106941156091512780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_55
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 741
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb007e0852f72b10800000000000000
+      internalID: 1956799023129037775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_56
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 738
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbbcccf65782d3d0800000000000000
+      internalID: -3183333178919306310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_57
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 729
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43c6386ab2b607d0800000000000000
+      internalID: -2952475992012700853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_58
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 721
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a69f5f24959b4070800000000000000
+      internalID: 8091725619183720098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_59
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 727
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3151bf653111089a0800000000000000
+      internalID: -6232963109519420141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_60
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 720
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a440d3279d84f00800000000000000
+      internalID: 1101369193565276750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_61
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 692
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5104f0c87b580ce10800000000000000
+      internalID: 2215918040041603093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_62
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 696
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be125c39448a844e0800000000000000
+      internalID: -1997161422248402453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_63
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 372
+        width: 238
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95ea614e7e2858f0800000000000000
+      internalID: -551639834554604133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_64
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 277
+        width: 333
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fe5fa4cd3dee4c0800000000000000
+      internalID: -4256231654714642600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_65
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 646
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b57c451b558e0b0800000000000000
+      internalID: -5699211108317439205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_66
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 600
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e79aeebc71cb460800000000000000
+      internalID: 7258702864064282169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_67
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 616
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac5e63114230ff50800000000000000
+      internalID: 6913080683093974180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_68
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 614
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2cf47c2167c2270800000000000000
+      internalID: 8227080442324435665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_69
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 606
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e9e29363cb4ba40800000000000000
+      internalID: 5383134395688197706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_70
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 596
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5735a820122470a00800000000000000
+      internalID: 722618974760227701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_71
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 604
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6f731dbfc53e550800000000000000
+      internalID: 6188892549553845976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_72
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 563
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf56ca9df60adc80800000000000000
+      internalID: -8297311677183533124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_73
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 579
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd3ee4cbc08e6b60800000000000000
+      internalID: 7741266422167125444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_74
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 578
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8dcee1d820a2af0800000000000000
+      internalID: -420520810073237285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 426
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60ce6c2883d5a000800000000000000
+      internalID: 46675952971726956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_76
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 491
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889a7e4507336e510800000000000000
+      internalID: 1578005276993759624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_77
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 491
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5124b9e799e41b940800000000000000
+      internalID: 5310111856807592469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_78
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 318
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e34105d73010b110800000000000000
+      internalID: 1274536526528725991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_79
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 434
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3477e2e9e0f1c430800000000000000
+      internalID: 3801584447802274878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_80
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 438
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdd3871b8f452f50800000000000000
+      internalID: 6855973466555014584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_81
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 436
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509da0b27523d5500800000000000000
+      internalID: 386520492989405445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_82
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 441
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498a62498106e89a0800000000000000
+      internalID: -6228935575925774188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_83
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 434
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5145f43ddb72cd0800000000000000
+      internalID: -2582887146007030310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_84
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 440
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38475a817a3dfedf0800000000000000
+      internalID: -148667548053441405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_85
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 418
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54098f7f1f24700a0800000000000000
+      internalID: -6915485095789293499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_86
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 424
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b287b3c3cf13afb40800000000000000
+      internalID: 5474743256434309163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_87
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 405
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3361707980e0dd10800000000000000
+      internalID: 2148463903157347130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_88
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 428
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286e049589a210b30800000000000000
+      internalID: 4251726357035280002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_89
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 432
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0f1dbbe99cf93a0800000000000000
+      internalID: -6656380040637189955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_90
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 422
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baaea7c57f2a40a60800000000000000
+      internalID: 7639410051219385003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_91
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 426
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf409bfa988681da0800000000000000
+      internalID: -5973909965139016453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_92
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 257
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4af92b6d7cc9c390800000000000000
+      internalID: -7797476440774411700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_93
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 406
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8adbc7d5f991850800000000000000
+      internalID: 6348280373629003987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_94
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 0
+        width: 260
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4a634a43d00f0b0800000000000000
+      internalID: -5697039008879172404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_95
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 410
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35eabe2e37fb512e0800000000000000
+      internalID: -2155606342177673645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_96
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 406
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ff88fb372c72150800000000000000
+      internalID: 5847856443554332531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_97
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 394
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8c55fcb67b823b0800000000000000
+      internalID: -5536974068184135427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_98
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 367
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d73d9c8e10cbff70800000000000000
+      internalID: 9222175899411888080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_99
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 319
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccbe9bf9fcd9b5c0800000000000000
+      internalID: -4199082211319825210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_100
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 357
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14cb0c2a0ca5b990800000000000000
+      internalID: -7370796055433329637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_101
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 311
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f784eda0a73ff37f0800000000000000
+      internalID: -630517717314680705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_102
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 301
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd0f2ffa8f2f5a00800000000000000
+      internalID: 747368337200057782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_103
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 265
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f67824fbb96b590800000000000000
+      internalID: -7658762870539718827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_104
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 289
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd117138b104224e0800000000000000
+      internalID: -2007971996946198053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_105
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 295
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0aff7139d8c750d0800000000000000
+      internalID: -3434055355682784757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_106
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 275
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7294aec415b785e10800000000000000
+      internalID: 2186633208201365799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_107
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 259
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7e2fa374cce01f0800000000000000
+      internalID: -1076698654591227956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_108
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 285
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbc381a56d07e8e0800000000000000
+      internalID: -1664346807137481737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_109
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 277
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac0e39143a94d7f0800000000000000
+      internalID: -588676102726218579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_110
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 265
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248d90b6b573eaa50800000000000000
+      internalID: 6534220975138527298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_111
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 245
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8194d0bc8212440800000000000000
+      internalID: 4909249921376917702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_112
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 255
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115e36ad37d075f70800000000000000
+      internalID: 9175817557027054865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_113
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 259
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2671294651b948f0800000000000000
+      internalID: -555718094851312083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_114
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 249
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4f5879cd4c654c0800000000000000
+      internalID: -4299032342564571957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_115
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 249
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791d8785535ab0690800000000000000
+      internalID: -7634827094740381289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_116
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 249
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d9802895b160f10800000000000000
+      internalID: 2235504336283671942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_117
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 251
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d0486d80a5564a0800000000000000
+      internalID: -6600770684836377287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_118
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 249
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df460251f931c020800000000000000
+      internalID: 2360231388344897488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_119
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 245
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936530832d36358b0800000000000000
+      internalID: -5164674593129802183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_120
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 0
+        width: 407
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5ffed566a213b80800000000000000
+      internalID: -8416899609427708454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_121
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 214
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc22aed73231f0050800000000000000
+      internalID: 5768850690842174156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_122
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 241
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82e87d094c7a2570800000000000000
+      internalID: 8442697104659899019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_123
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 231
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21b191ef840a8760800000000000000
+      internalID: 7460780748703904046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_124
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 229
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b028e8b81e9bed40800000000000000
+      internalID: 5614755189466079408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_125
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 204
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bc0c601cd3cab50800000000000000
+      internalID: 6605722652696955783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_126
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 231
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807c4154333c9c1f0800000000000000
+      internalID: -1024072815280339192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_127
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 219
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cba6ec04c2b3b350800000000000000
+      internalID: 6031360881079004104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_128
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 215
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116e74ed7100e8840800000000000000
+      internalID: 5228116319937226257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 68
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf045bf06041202d0800000000000000
+      internalID: -3314064359525367556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_130
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 113
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b52d18b8437347f0800000000000000
+      internalID: -629532766737979982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_131
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 82
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13d43429b2ba1e00800000000000000
+      internalID: 1016321174171603740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_132
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 94
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb55ba45157ffd4a0800000000000000
+      internalID: -6566257802997967429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_133
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 84
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d037b250c8d50ba0800000000000000
+      internalID: -6123249797807263532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_134
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 67
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddca4b8432b2e01b0800000000000000
+      internalID: -5688561848778707747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_135
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 71
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee25d9003a652ffc0800000000000000
+      internalID: -3462609905404521746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_136
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 55
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daac05091aa90da50800000000000000
+      internalID: 6543900277270956717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_137
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 0
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434880e5dc0704a20800000000000000
+      internalID: 3044557375450678324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_138
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 38
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb731ec8355159760800000000000000
+      internalID: 7463895406026504124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_139
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 35
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1827a32cc4c0c70800000000000000
+      internalID: 8938603757511541160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_140
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 15
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda1fe129be6e26a0800000000000000
+      internalID: -6472113873067500835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Atlas_4x5_141
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 14
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ab24eae5ee55590800000000000000
+      internalID: -7685975098619938297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Leo_Atlas_4x5_0: -1570724930152057059
+      Leo_Atlas_4x5_1: 3351033458417137632
+      Leo_Atlas_4x5_10: 1827114138155664826
+      Leo_Atlas_4x5_100: -7370796055433329637
+      Leo_Atlas_4x5_101: -630517717314680705
+      Leo_Atlas_4x5_102: 747368337200057782
+      Leo_Atlas_4x5_103: -7658762870539718827
+      Leo_Atlas_4x5_104: -2007971996946198053
+      Leo_Atlas_4x5_105: -3434055355682784757
+      Leo_Atlas_4x5_106: 2186633208201365799
+      Leo_Atlas_4x5_107: -1076698654591227956
+      Leo_Atlas_4x5_108: -1664346807137481737
+      Leo_Atlas_4x5_109: -588676102726218579
+      Leo_Atlas_4x5_11: 2305097139619022882
+      Leo_Atlas_4x5_110: 6534220975138527298
+      Leo_Atlas_4x5_111: 4909249921376917702
+      Leo_Atlas_4x5_112: 9175817557027054865
+      Leo_Atlas_4x5_113: -555718094851312083
+      Leo_Atlas_4x5_114: -4299032342564571957
+      Leo_Atlas_4x5_115: -7634827094740381289
+      Leo_Atlas_4x5_116: 2235504336283671942
+      Leo_Atlas_4x5_117: -6600770684836377287
+      Leo_Atlas_4x5_118: 2360231388344897488
+      Leo_Atlas_4x5_119: -5164674593129802183
+      Leo_Atlas_4x5_12: 7091389807993309802
+      Leo_Atlas_4x5_120: -8416899609427708454
+      Leo_Atlas_4x5_121: 5768850690842174156
+      Leo_Atlas_4x5_122: 8442697104659899019
+      Leo_Atlas_4x5_123: 7460780748703904046
+      Leo_Atlas_4x5_124: 5614755189466079408
+      Leo_Atlas_4x5_125: 6605722652696955783
+      Leo_Atlas_4x5_126: -1024072815280339192
+      Leo_Atlas_4x5_127: 6031360881079004104
+      Leo_Atlas_4x5_128: 5228116319937226257
+      Leo_Atlas_4x5_129: -3314064359525367556
+      Leo_Atlas_4x5_13: -6143996569674024392
+      Leo_Atlas_4x5_130: -629532766737979982
+      Leo_Atlas_4x5_131: 1016321174171603740
+      Leo_Atlas_4x5_132: -6566257802997967429
+      Leo_Atlas_4x5_133: -6123249797807263532
+      Leo_Atlas_4x5_134: -5688561848778707747
+      Leo_Atlas_4x5_135: -3462609905404521746
+      Leo_Atlas_4x5_136: 6543900277270956717
+      Leo_Atlas_4x5_137: 3044557375450678324
+      Leo_Atlas_4x5_138: 7463895406026504124
+      Leo_Atlas_4x5_139: 8938603757511541160
+      Leo_Atlas_4x5_14: 1667591830832281794
+      Leo_Atlas_4x5_140: -6472113873067500835
+      Leo_Atlas_4x5_141: -7685975098619938297
+      Leo_Atlas_4x5_15: 2508808669614134598
+      Leo_Atlas_4x5_16: -181769937893638929
+      Leo_Atlas_4x5_17: 9188654187896160300
+      Leo_Atlas_4x5_18: 3721453246175381449
+      Leo_Atlas_4x5_19: -8468759542261535489
+      Leo_Atlas_4x5_2: -3618820867716601923
+      Leo_Atlas_4x5_20: -224504960362307837
+      Leo_Atlas_4x5_21: 3467629337702475808
+      Leo_Atlas_4x5_22: -8357183457915141685
+      Leo_Atlas_4x5_23: 9183446399820856359
+      Leo_Atlas_4x5_24: -6853042962116631569
+      Leo_Atlas_4x5_25: 6802798558496157241
+      Leo_Atlas_4x5_26: -6180308763600670983
+      Leo_Atlas_4x5_27: 5305358084095065385
+      Leo_Atlas_4x5_28: 5284506914918908187
+      Leo_Atlas_4x5_29: 6494690584522957725
+      Leo_Atlas_4x5_3: 2876595261933653352
+      Leo_Atlas_4x5_30: -8121456533590726174
+      Leo_Atlas_4x5_31: 3173233046569122312
+      Leo_Atlas_4x5_32: 2885655536154910957
+      Leo_Atlas_4x5_33: -6513912977936350590
+      Leo_Atlas_4x5_34: -520135412042503318
+      Leo_Atlas_4x5_35: 9194629968528497235
+      Leo_Atlas_4x5_36: 3308911252667546062
+      Leo_Atlas_4x5_37: -1172045654124000528
+      Leo_Atlas_4x5_38: 1561598486913465804
+      Leo_Atlas_4x5_39: 2293142792424023545
+      Leo_Atlas_4x5_4: -7858901544073839719
+      Leo_Atlas_4x5_40: 6705195308810713322
+      Leo_Atlas_4x5_41: 8787037234475142104
+      Leo_Atlas_4x5_42: -9061801917286962213
+      Leo_Atlas_4x5_43: -3693246119536807835
+      Leo_Atlas_4x5_44: 8452779263163753675
+      Leo_Atlas_4x5_45: -4723639705587512618
+      Leo_Atlas_4x5_46: 1267611044301176482
+      Leo_Atlas_4x5_47: -4260609897262340640
+      Leo_Atlas_4x5_48: -618627491696395956
+      Leo_Atlas_4x5_49: -7939771723812624106
+      Leo_Atlas_4x5_5: -5471827964394390819
+      Leo_Atlas_4x5_50: 8604043595617808504
+      Leo_Atlas_4x5_51: -2650959122173390555
+      Leo_Atlas_4x5_52: 4832372157288417167
+      Leo_Atlas_4x5_53: -8974156130396801007
+      Leo_Atlas_4x5_54: 2106941156091512780
+      Leo_Atlas_4x5_55: 1956799023129037775
+      Leo_Atlas_4x5_56: -3183333178919306310
+      Leo_Atlas_4x5_57: -2952475992012700853
+      Leo_Atlas_4x5_58: 8091725619183720098
+      Leo_Atlas_4x5_59: -6232963109519420141
+      Leo_Atlas_4x5_6: 3470362221054052487
+      Leo_Atlas_4x5_60: 1101369193565276750
+      Leo_Atlas_4x5_61: 2215918040041603093
+      Leo_Atlas_4x5_62: -1997161422248402453
+      Leo_Atlas_4x5_63: -551639834554604133
+      Leo_Atlas_4x5_64: -4256231654714642600
+      Leo_Atlas_4x5_65: -5699211108317439205
+      Leo_Atlas_4x5_66: 7258702864064282169
+      Leo_Atlas_4x5_67: 6913080683093974180
+      Leo_Atlas_4x5_68: 8227080442324435665
+      Leo_Atlas_4x5_69: 5383134395688197706
+      Leo_Atlas_4x5_7: 5263771856880846248
+      Leo_Atlas_4x5_70: 722618974760227701
+      Leo_Atlas_4x5_71: 6188892549553845976
+      Leo_Atlas_4x5_72: -8297311677183533124
+      Leo_Atlas_4x5_73: 7741266422167125444
+      Leo_Atlas_4x5_74: -420520810073237285
+      Leo_Atlas_4x5_75: 46675952971726956
+      Leo_Atlas_4x5_76: 1578005276993759624
+      Leo_Atlas_4x5_77: 5310111856807592469
+      Leo_Atlas_4x5_78: 1274536526528725991
+      Leo_Atlas_4x5_79: 3801584447802274878
+      Leo_Atlas_4x5_8: 1468835012975048684
+      Leo_Atlas_4x5_80: 6855973466555014584
+      Leo_Atlas_4x5_81: 386520492989405445
+      Leo_Atlas_4x5_82: -6228935575925774188
+      Leo_Atlas_4x5_83: -2582887146007030310
+      Leo_Atlas_4x5_84: -148667548053441405
+      Leo_Atlas_4x5_85: -6915485095789293499
+      Leo_Atlas_4x5_86: 5474743256434309163
+      Leo_Atlas_4x5_87: 2148463903157347130
+      Leo_Atlas_4x5_88: 4251726357035280002
+      Leo_Atlas_4x5_89: -6656380040637189955
+      Leo_Atlas_4x5_9: 1804617221142457856
+      Leo_Atlas_4x5_90: 7639410051219385003
+      Leo_Atlas_4x5_91: -5973909965139016453
+      Leo_Atlas_4x5_92: -7797476440774411700
+      Leo_Atlas_4x5_93: 6348280373629003987
+      Leo_Atlas_4x5_94: -5697039008879172404
+      Leo_Atlas_4x5_95: -2155606342177673645
+      Leo_Atlas_4x5_96: 5847856443554332531
+      Leo_Atlas_4x5_97: -5536974068184135427
+      Leo_Atlas_4x5_98: 9222175899411888080
+      Leo_Atlas_4x5_99: -4199082211319825210
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
